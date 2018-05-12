@@ -1,4 +1,4 @@
-# Simple Loagin Indicator component for VueJS
+# Simple Loading Indicator component for VueJS
 
 ## Usage
 
