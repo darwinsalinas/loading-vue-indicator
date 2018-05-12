@@ -1,11 +1,24 @@
 {
   "name": "loading-vue-indicator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Darwin Salinas",
   "license": "MIT",
-  "description": "Loading indicator for vue"
+  "description": "Simple Loading indicator component for vue",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darwinsalinas/loading-vue-indicator.git"
+  },
+  "keywords": [
+    "Loadin",
+    "Indicator",
+    "vue"
+  ],
+  "bugs": {
+    "url": "https://github.com/darwinsalinas/loading-vue-indicator/issues"
+  },
+  "homepage": "https://github.com/darwinsalinas/loading-vue-indicator#readme"
 }
