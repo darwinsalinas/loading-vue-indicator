@@ -1,0 +1,11 @@
+{
+  "name": "loading-vue-indicator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darwin Salinas",
+  "license": "MIT",
+  "description": "Loading indicator for vue"
+}
